@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Pranay Nidhi"
+title = "Pranay Nidhi's Bunker"
 
 [params]
 displayName = "EN"
@@ -10,5 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Here, you will find out about me, my projects, some writeups and other things."
-author = { name = "Pranay Nidhi's Bunker" }
 logo = "image.gif"
+
+[params.author]
+name = ""
