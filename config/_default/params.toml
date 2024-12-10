@@ -8,6 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "homepage_image.jpeg"
 
 [header]
 layout = "basic"
@@ -20,7 +21,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "hero"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
@@ -28,6 +29,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
+homepageImage = "homepage_image.jpeg"
 
 [article]
 showDate = true
