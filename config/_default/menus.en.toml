@@ -1,5 +1,23 @@
 [[main]]
 none = "none"
 
+[[main]]
+name = "Whoami"
+pageRef = "whoami"
+identifier = "PUhen0djZO"
+weight = 2
+
+[[main]]
+name = "Writeups"
+pageRef = "writeups"
+identifier = "fI8PTp7wLu"
+weight = 9999
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "4rmkJQOLWA"
+weight = 9999
+
 [[footer]]
 none = "none"
