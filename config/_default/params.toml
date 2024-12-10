@@ -21,7 +21,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "blowfish"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
