@@ -1,0 +1,127 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+
+enableSearch = true
+enableCodeCopy = true
+
+
+disableImageOptimization = true
+disableTextInHeader = false
+
+defaultBackgroundImage = "homepage_image.jpeg"
+defaultFeaturedImage = "homepage_image.jpeg"
+
+    highlightCurrentMenuArea = true
+    smartTOC = true
+    smartTOCHideUnfocusedChildren = false
+
+[header]
+    layout = "fixed"
+
+[footer]
+    showMenu = true
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = true
+    showScrollToTop = true
+
+[homepage]
+    layout = "background"
+    homepageImage = "homepage_image.jpeg"
+    showRecent = true
+    showRecentItems = 6
+    showMoreLink = false
+    showMoreLinkDest = "/posts"
+    cardView = true
+    cardViewScreenWidth = false
+    layoutBackgroundBlur = true
+
+
+[article]
+    showDate = true
+    showViews = true
+    showLikes = true
+    showDateOnlyInArticle = true
+    showDateUpdated = false
+    showAuthor = true
+    showHero = true
+    heroStyle = "background"
+    layoutBackgroundBlur = true
+    layoutBackgroundHeaderSpace = false
+    showBreadcrumbs = true
+    showDraftLabel = true
+    showEdit = false
+    editAppendPath = true
+    seriesOpened = false
+    showHeadingAnchors = true
+    showPagination = true
+    invertPagination = false
+    showReadingTime = true
+    showTableOfContents = true
+    showTaxonomies = true
+    showAuthorsBadges = false
+    showWordCount = true
+    sharingLinks = [ "linkedin", "twitter", "whatsapp", "telegram", "pinterest", "reddit", "facebook", "email"]
+    showZenMode = false
+
+[list]
+    showHero = true
+    heroStyle = "background"
+    layoutBackgroundBlur = true
+    layoutBackgroundHeaderSpace = false
+    showBreadcrumbs = false
+    showSummary = false
+    showViews = false
+    showLikes = false
+    showTableOfContents = false
+    showCards = false
+    orderByWeight = true
+    groupByYear = false
+    cardView = true
+    cardViewScreenWidth = false
+    constrainItemsWidth = false
+
+[sitemap]
+    xcludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+    showTermCount = true
+    showHero = false
+    showBreadcrumbs = false
+    showViews = false
+    showLikes = false
+    showTableOfContents = false
+    cardView = false
+
+[term]
+    showHero = false
+    showBreadcrumbs = false
+    showViews = false
+    showLikes = false
+    showTableOfContents = true
+    groupByYear = false
+    cardView = false
+    cardViewScreenWidth = false
+
+[firebase]
+    apiKey = "AIzaSyBffbo41Ni_UaNp4ObcqU5wJjL2UI_UG7M"
+    authDomain = "pranaynidhi-tech.firebaseapp.com"
+    projectId = "pranaynidhi-tech"
+    storageBucket = "pranaynidhi-tech.firebasestorage.app"
+    messagingSenderId = "462217133929"
+    appId = "1:462217133929:web:197a0f3e20dadfd80407f8"
+    measurementId = "G-M1ZBBYLSQ3"
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[selineAnalytics]
+
+[buymeacoffee]
+
+[verification]
+
+[rssnext]
