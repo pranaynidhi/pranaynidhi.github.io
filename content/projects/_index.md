@@ -14,3 +14,4 @@ showDate: false
 ---
 
 {{< github repo="pranaynidhi/4061CEM-Coursework1" >}}
+{{< github repo="pranaynidhi/4061CEM-Coursework2" >}}
