@@ -57,7 +57,8 @@ A **Cybersecurity Student** and **Ethical Hacking Enthusiast** currently pursuin
 - **GitHub**: [pranaynidhi](https://github.com/pranaynidhi)  
 - **TryHackMe**: [pranaynidhi](https://tryhackme.com/r/p/pranaynidhi)  
 - **Hack The Box**: [pranaynidhi](https://app.hackthebox.com/profile/635895)  
-- **LinkedIn**: [Pranay Nidhi](https://www.linkedin.com/in/pranay-nidhi-628b6116a/)  
+- **LinkedIn**: [Pranay Nidhi](https://www.linkedin.com/in/pranay-nidhi-628b6116a/)
+- **My Phone Number**: +977 27.70076985.300140  
 
 ---
 
